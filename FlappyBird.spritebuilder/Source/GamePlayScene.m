@@ -23,6 +23,8 @@
         [self addObstacle];
         timeSinceObstacle = 0.0f;
     }
+    
+    
 }
 
 // put new methods here
